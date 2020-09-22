@@ -1,0 +1,16 @@
+.homepage__text {
+  padding: 14px;
+
+
+ 
+}
+
+.imgWrapper img {
+  max-width: 1000px;
+  max-height: 1200px;
+}
+
+.homepage{
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,61 @@
+.input__search {
+    height: 35px;
+    width: 200px;
+    background-color: #444444;
+    background-image: url("../assets/img/search.png");
+    background-repeat: no-repeat;
+    background-size: 15px;
+    background-position: left 5% center;
+    padding: 7px 5px 5px 35px;
+    border: 1px solid #525252;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    color: #757575;
+    margin-top: 20px;
+  }
+  
+  .contact__info-details,
+  .contact {
+    display: flex;
+  }
+  
+  .contact {
+    color: white;
+  }
+  
+  .contact__info-number {
+    color: #757575;
+  }
+  
+  .contact__gender {
+    position: relative;
+  }
+  
+  .contact {
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 20px;
+  }
+  
+  .Contacts {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-family: "Kufam", cursive;
+    background-color: black;
+  }
+  
+  .contacts__wrapper {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .contact__block {
+    width: 250px;
+  }
+  
+  .contact__info-details {
+    margin-bottom: 5px;
+  }
+  
