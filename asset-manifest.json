@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/reactfifth/static/css/main.0602392a.chunk.css",
+    "main.js": "/reactfifth/static/js/main.892be5f3.chunk.js",
+    "main.js.map": "/reactfifth/static/js/main.892be5f3.chunk.js.map",
+    "runtime-main.js": "/reactfifth/static/js/runtime-main.4d474684.js",
+    "runtime-main.js.map": "/reactfifth/static/js/runtime-main.4d474684.js.map",
+    "static/js/2.84aa5bb2.chunk.js": "/reactfifth/static/js/2.84aa5bb2.chunk.js",
+    "static/js/2.84aa5bb2.chunk.js.map": "/reactfifth/static/js/2.84aa5bb2.chunk.js.map",
+    "index.html": "/reactfifth/index.html",
+    "precache-manifest.3e7c8b035be817023717429e149526fd.js": "/reactfifth/precache-manifest.3e7c8b035be817023717429e149526fd.js",
+    "service-worker.js": "/reactfifth/service-worker.js",
+    "static/css/main.0602392a.chunk.css.map": "/reactfifth/static/css/main.0602392a.chunk.css.map",
+    "static/js/2.84aa5bb2.chunk.js.LICENSE.txt": "/reactfifth/static/js/2.84aa5bb2.chunk.js.LICENSE.txt",
+    "static/media/anon.svg": "/reactfifth/static/media/anon.c981df53.svg",
+    "static/media/arrow.svg": "/reactfifth/static/media/arrow.371f610e.svg",
+    "static/media/comment.svg": "/reactfifth/static/media/comment.8d3e51c7.svg",
+    "static/media/female.svg": "/reactfifth/static/media/female.c3ee4a7e.svg",
+    "static/media/like.svg": "/reactfifth/static/media/like.c2e1643f.svg",
+    "static/media/male.svg": "/reactfifth/static/media/male.2889fe11.svg",
+    "static/media/repost.svg": "/reactfifth/static/media/repost.501c6325.svg",
+    "static/media/contacts.css": "/reactfifth/static/media/search.422b2b58.png",
+    "static/media/share.svg": "/reactfifth/static/media/share.499187f3.svg",
+    "static/media/verified.svg": "/reactfifth/static/media/verified.2019cadf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d474684.js",
+    "static/js/2.84aa5bb2.chunk.js",
+    "static/css/main.0602392a.chunk.css",
+    "static/js/main.892be5f3.chunk.js"
+  ]
+}
